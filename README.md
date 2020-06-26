@@ -29,3 +29,5 @@ Uses Of Python
 3.Python can connect to database systems. It can also read and modify files.
 4.Python can be used to handle big data and perform complex mathematics.
 5.Python can be used for rapid prototyping, or for production-ready software development.
+
+ADD COMMENTS
